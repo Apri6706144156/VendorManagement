@@ -1,0 +1,27 @@
+cara upload hosting
+edit file config
+applicaiton-config.php
+ganti base_url ke alamat domain
+
+buat database di hostingnya
+
+pilih phpmyadmin
+import local database
+klik export
+pilih custom
+save output to file
+pilih go
+
+selanjutnya import di phpmyadmin hostng
+klik import
+choose file
+pilih file sqlnya
+go
+
+
+ubah database.php
+ubah username, password,database
+
+buat .htaccess di filemanager
+isinya samakan dengan file access dilocalhostnya
+
